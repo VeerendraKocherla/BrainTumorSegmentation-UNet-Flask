@@ -1,5 +1,5 @@
 # Brain Tumor Segementation using U-Net and Flask
-Get the dataset [here.](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
+Get the BraTS2020 Dataset [here.](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
 
 ## Introduction
 The project employs deep learning for the semantic segmentation of MRI scans, specifically targeting tumor regions. 
